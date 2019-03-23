@@ -1,7 +1,9 @@
 # Clarithromycin-Digoxin-DDI
 Modeling of published clinical Clarithromycin-Digoxin-DDI studies for model evaluation 
 
-![gim](https://github.com/Open-Systems-Pharmacology/Clarithromycin-Digoxin-DDI/blob/master/Clarithromycin-Digoxin-DDI.png)
+<p align="center">
+  <img src="Clarithromycin-Digoxin-DDI.png">
+</p>
 
 ## Repository files
 Within this repository, we distribute a PK-Sim project file containing simulations of all published clinical studies used to evaluate the predictive performance of our models regarding the Clarithromycin-Digoxin-DDI, including the respective observed data digitized from literature reports. For further details and documentation please refer to [[1](#reference)]. 
